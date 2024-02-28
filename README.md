@@ -46,4 +46,6 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de dét
 
 ## Crédits
 
+For workshop1 All crédits to [Agéron](https://github.com/ageron)
+
 Ce projet a été créé par Philippe BONNIN.
